@@ -1,0 +1,2 @@
+# Predict-Rate-of-COVID-19-Spread
+The goal of this project is to predict the rate of spread of COVID-19 with respect to 66 features related to mobility changes in places of activity like retail and recreation places, transit stations, grocery and pharmacy stores, workplaces, parks and residential areas. The data for the mobility changes in each of these 6 distinct places of activity are provided for 11 preceding days.
